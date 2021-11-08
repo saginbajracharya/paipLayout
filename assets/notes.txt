@@ -1,0 +1,4 @@
+postType 
+1 image => data from image field, returns list always if image postType take data from image[0]
+2 multiimage => data from image field, returns list always if image postType take data from image[all]
+3 video => data from contentUrl field,returns video URl else empty string '' 
